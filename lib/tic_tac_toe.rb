@@ -40,7 +40,9 @@ class TicTacToe
   end
   
   def turn_count
-    
+    number_of_turn= 0 
+    @board.each do |symbol|
+      if 
   
 end 
 
