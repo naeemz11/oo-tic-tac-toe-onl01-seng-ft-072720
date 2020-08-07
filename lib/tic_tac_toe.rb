@@ -58,7 +58,11 @@ class TicTacToe
   end
   
   def turn 
+  puts "Please enter a number from 1-9"
+  input= gets.strip
   
   
+  
+end 
 end 
 
