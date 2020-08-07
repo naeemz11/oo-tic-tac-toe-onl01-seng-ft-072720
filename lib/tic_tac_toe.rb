@@ -15,7 +15,8 @@ class TicTacToe
     [2,4,6]  # Diagnol 2
   ]
   
-  def display_board()
+  def display_board
+    
   
   
 end 
