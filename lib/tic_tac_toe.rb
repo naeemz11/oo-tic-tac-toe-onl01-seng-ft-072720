@@ -43,7 +43,10 @@ class TicTacToe
     number_of_turn= 0 
     @board.each do |input|
       if input == "X" || input == "O"
-        
+       number_of_turn += l 
+     end 
+   end 
+   
   
 end 
 
