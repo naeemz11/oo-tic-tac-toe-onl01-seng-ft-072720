@@ -46,7 +46,7 @@ class TicTacToe
        number_of_turn += l 
      end 
    end 
-   
+ end 
   
 end 
 
