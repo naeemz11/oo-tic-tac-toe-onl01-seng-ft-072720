@@ -31,4 +31,8 @@ class TicTacToe
     @board[position]= symbol
   end
   
+  def position_taken?(board)
+    
+  end 
+  
 end 
